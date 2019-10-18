@@ -1,0 +1,22 @@
+{
+  "name": "dopefull",
+  "version": "1.0.0",
+  "description": "this is the cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taka1995/dopefull.git"
+  },
+  "keywords": [
+    "yueru"
+  ],
+  "author": "jane-doe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taka1995/dopefull/issues"
+  },
+  "homepage": "https://github.com/taka1995/dopefull#readme"
+}
