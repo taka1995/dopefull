@@ -20,7 +20,7 @@
     "url": "https://github.com/taka1995/dopefull/issues"
   },
   "homepage": "https://github.com/taka1995/dopefull#readme"
-}
+},
 
 "dependencies": {
     "chai": "^3.5.0",
