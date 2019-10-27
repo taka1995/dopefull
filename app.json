@@ -1,7 +1,6 @@
 {
   "name": "dopefull",
   "scripts": {
-    "build": "tsc -p ./src",
   },
   "formation": {
     "web": {

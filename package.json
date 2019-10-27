@@ -11,15 +11,30 @@
     "type": "git",
     "url": "git+https://github.com/taka1995/dopefull.git"
   },
+<<<<<<< HEAD
   "dependencies": {
     "dotenv": "^8.2.0",
     "ejs": "^2.7.1",
     "express": "^4.17.1",
     "pg": "^7.12.1"
+=======
+  
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.5",
+    "express": "^4.0.0",
+    "mocha": "^3.3.0"
+>>>>>>> c67b75e983c84bdd0d3ebcf04ae5a45087dfe7d0
   },
   "engines": {
     "ejs": "2.5.5"
   },
+<<<<<<< HEAD
+=======
+  
+>>>>>>> c67b75e983c84bdd0d3ebcf04ae5a45087dfe7d0
   "keywords": [
     "yueru"
   ],
