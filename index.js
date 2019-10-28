@@ -26,7 +26,7 @@ app.listen(app.get('port'), function() {
 
 module.exports = app
 
-.get('/times', (req, res) => res.send(showTimes()))
+app.get('/times', (req, res) => res.send(showTimes()))
 
 showTimes = () => {
   let result = ''
