@@ -19,6 +19,7 @@
     "dotenv": "^4.0.0",
     "ejs": "^2.5.5",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "express": "^4.17.1",
     "mocha": "^6.2.2",
     "pg": "^7.12.1"
@@ -26,7 +27,20 @@
     "express": "^4.0.0",
     "mocha": "^6.2.2"
 >>>>>>> b3d52b1dc505f4190a75813a6b82856d3f9baf8d
+=======
+    "express": ">=4.0.0",
+    "mocha": "^3.3.0"
+>>>>>>> 2fa7eb3bfbf1eb666778da2436bf366f84b45a72
   },
+  
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "pg": "^7.12.1"
+  },
+    
+  
   "engines": {
     "ejs": "2.5.5"
   },
@@ -40,3 +54,5 @@
   },
   "homepage": "https://github.com/taka1995/dopefull#readme"
 }
+
+
