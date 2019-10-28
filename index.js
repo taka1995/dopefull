@@ -26,6 +26,16 @@ app.listen(app.get('port'), function() {
 
 module.exports = app
 
+.get('/times', (req, res) => res.send(showTimes()))
+
+showTimes = () => {
+  let result = ''
+  const times = process.env.TIMES || 5
+  for (i = 0; i < times; i++) {
+    result += i + ' '
+  }
+  return result;
+}
 
 
 
