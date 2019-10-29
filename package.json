@@ -12,7 +12,11 @@
     "type": "git",
     "url": "git+https://github.com/taka1995/dopefull.git"
   },
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 1ae2659d55786666ee1c9fb573b73c1daa0f7eb1
   "dependencies": {
     "chai": "^3.5.0",
     "chai-http": "^3.0.0",
